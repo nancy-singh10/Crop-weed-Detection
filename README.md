@@ -2,7 +2,7 @@
 
 This project demonstrates the integration of Roboflow’s object detection API with YOLOv5 to detect weeds in images. It uses pre-trained models, performs inference on images, and visualizes the results such as bounding boxes and confidence scores. Additionally, it provides insights into detection results through graphs like confidence distributions and class distributions.
 
-![Weed Detection Example](path/to/your/image.jpg) <!-- Replace with actual image path -->
+![Weed Detection Example](Screenshot 2024-11-13 220114.png) <!-- Replace with actual image path -->
 
 ## Features
 
